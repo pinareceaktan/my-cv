@@ -41,7 +41,7 @@ Worked as a backend PHP developer, for their school management platform called [
 - **_Technologies used:_** PHP, Zen Framework, SQL.
 <br><br>
 
-## Education 📚🖌
+## Education 📚
 **Computer Engineering** <br>
 [Bahcesehir University](https://bau.edu.tr/) - Istanbul, Turkey _(2018-Droped out at thesis)_
 - **_Major courses completed:_** Data mining, Computer vision, Machine learning. 
@@ -60,3 +60,7 @@ Worked as a backend PHP developer, for their school management platform called [
   
 - [1] H.Acarcicek, T.Çolakoglu, P.E.A.Hatipoglu, C.H.Huang,and W.Peng. Filtering noisy parallel corpus using transformers with proxy task learning. In Proceedings of the Fifth Conference on Machine Translation, pages 940–946, 2020.
 - [2] P.E.Aktan, G.Hatipoglu, and N.Arica.Risk classification for breast cancer diagnosis using her2 testing. In 2016 24th Signal Processing and Communication Application Conference (SIU), pages 2133–2136. IEEE, 2016.
+<br>
+
+### Note 🖌
+Special thanks to [Carolyn](https://workwithcarolyn.com/blog/digital-cv-guide) for sharing the knowledge.
