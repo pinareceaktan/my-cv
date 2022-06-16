@@ -54,7 +54,7 @@ Worked as a backend PHP developer, for their school management platform called [
 - 2022 Finding the trace of adverse childhood experiences in reddit micro blogs.
 - 2020 Accident prediction on notifications posted by local municipality on Twitter. 
 - 2018 Advertising placement for the Twitch game streams.
-
+<br>
 
 ## PUBLICATIONS 🔦
   
