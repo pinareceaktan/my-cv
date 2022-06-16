@@ -58,5 +58,5 @@ Worked as a backend PHP developer, for their school management platform called [
 
 ## PUBLICATIONS 🔦
   
-- [1] H.Acarcicek,T.Çolakoglu,P.E.A.Hatipoglu,C.H.Huang,andW.Peng.Filtering noisy parallel corpus using transformers with proxy task learning. In Proceedings of the Fifth Conference on Machine Translation, pages 940–946, 2020.
-- [2] P.E.Aktan,G.Hatipoglu,andN.Arica.Risk classification for breast cancer diagnosis using her2 testing. In 2016 24th Signal Processing and Communication Application Conference (SIU), pages 2133–2136. IEEE, 2016.
+- [1] H.Acarcicek, T.Çolakoglu, P.E.A.Hatipoglu, C.H.Huang,and W.Peng. Filtering noisy parallel corpus using transformers with proxy task learning. In Proceedings of the Fifth Conference on Machine Translation, pages 940–946, 2020.
+- [2] P.E.Aktan, G.Hatipoglu, and N.Arica.Risk classification for breast cancer diagnosis using her2 testing. In 2016 24th Signal Processing and Communication Application Conference (SIU), pages 2133–2136. IEEE, 2016.
