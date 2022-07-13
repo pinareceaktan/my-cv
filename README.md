@@ -41,7 +41,7 @@ Worked as a backend PHP developer, for their school management platform called [
 - **_Technologies used:_** PHP, Zend Framework, SQL.
 <br><br>
 
-**Research Assistant ** @ [BAU Computer Vision Lab](https://bau.edu.tr/) _(Jul 2015- Sept 2017)_<br>
+**Research Assistant** @ [BAU Computer Vision Lab](https://bau.edu.tr/) _(Jul 2015- Sept 2017)_<br>
 BAUFera project was a university research project founded by TUBITAK, aims to detect emotions from faces in the survilance cams.   
 - Employed multi task feature learning for gender classification, facial landmark localization and eye-glass availability.
 - **_Technologies used:_** TensorFlow, Matlab, Python.
