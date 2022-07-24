@@ -7,7 +7,7 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 ## Experience 👩🏻‍💻
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- Present)_<br>
 - Implementing a _spelling correction_ model, for English, Spanish, Russian and Arabic for Huawei App Galery Search.
-- Finetuning language models (mainly bert and likes of bert) to help relate domain and language related queries on a search engine system.
+- Finetuning language models (mainly bert and likes of bert) to help relate domain and language specific queries on a search engine system.
 - Implemented a parallel corpus filtering pipeline in collaboration with AARC of
 Huawei. Developed a proxy task to eliminate hard-case examples in filtering parallel corpus. Published an ACL paper as a result and ranked in the EMNLP contest of WMT20.
 - **_Technologies used:_** Python3.x, TensorFlow, PyTorch, NLTK, SpaCy, Scikit-learn, Pandas, Jupyter.
