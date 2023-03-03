@@ -5,8 +5,12 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 
 ## Experience 👩🏻‍💻
-**Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- Present)_<br>
-- Implementing a _spelling correction_ model, for English, Spanish, Russian and Arabic for Huawei App Galery Search.
+**Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
+- As a senior data scientist on Hb’s main product team Hermes,my role involves maintaining and implementing AI projects based on user-generated content.
+<br><br>
+
+**Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
+- I developed a spelling correction model for the search module of Huawei App Gallery,which supports English, Spanish, Russian, and Arabic languages.
 - Finetuning language models (mainly bert and likes of bert) to help relate domain and language specific queries on a search engine system.
 - Implemented a hybrid keyword extraction pipeline for mapping apps with related queries for AG search.
 - Implemented a parallel corpus filtering pipeline in collaboration with AARC of
