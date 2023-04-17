@@ -6,7 +6,7 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 ## Experience 👩🏻‍💻
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
-- Developing, and maintaining an end-to-end machine learning pipeline that utilizes NLP techniques for keyword based fast review generation. The pipeline includes Airflow for serving and has significantly improved both the quality and quantity of reviews. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
+- Developing, and maintaining an end-to-end machine learning pipeline that utilizes NLP techniques for keyword based fast review generation. The pipeline includes Airflow for serving and has significantly improved both the quality and quantity of reviews.
 <br><br>
 
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
