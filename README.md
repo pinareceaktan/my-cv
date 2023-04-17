@@ -6,13 +6,11 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 ## Experience 👩🏻‍💻
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
-- Maintaining and developing a rapid review generation pipeline utilizing user comments for Hepsiburada's primary team, Hermes. Utilize natural language processing techniques to analyze user comments and generate concise and informative reviews, resulting in a significant increase in review quality and quantity. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
+- Developing, and maintaining an end-to-end machine learning pipeline that utilizes NLP techniques for keyword based fast review generation. The pipeline includes Airflow for serving and has significantly improved both the quality and quantity of reviews. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
 <br><br>
 
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
-- Developed a multilingual spelling correction model for the search module of Huawei App Gallery, supporting English, Spanish, Russian, and Arabic languages.
-- Domain adaptation of language models for app gallery search system.  
-- Implemented a hybrid keyword extraction pipeline for mapping apps with related queries for AG search.
+- Developed a multilingual spelling correction pipeline for the search module of Huawei App Gallery, including domain adaptation of BERT, keyword extraction for app visibility and search terms ranking, serving and version management through Huawei modelarts . 
 - Implemented a parallel corpus filtering pipeline in collaboration with AARC of Huawei, resulting in a published ACL paper and a ranking in the EMNLP contest of WMT20.
 - **_Technologies used:_** Python3.x, TensorFlow, PyTorch, NLTK, SpaCy, Scikit-learn, Pandas, Jupyter.
 - **_Models used:_** Symspell, DeepPavlov, SimCLR, Moco, Contrastive Learning, Yake, Bert, m-Bart.
@@ -20,8 +18,8 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 **Data Scientist** @ [Getir](https://getir.com/) _(May 2018- July 2019)_<br>
 **Getir** is an online retails delivery app which promises _less than an hour_ delivery. Their business model is similar to Glovo, only Getir has its own stores in each crucial spots in Istanbul where they keep/manage wide-definite products. The demand prediction and planning, couriers planning & assignments, marketing analysis are all carried by the Data team. 
-- Solved Getir's biggest problem of predicting daily orders and item-based sales using Tensorflow's LSTM implementation, achieving a 2% error rate.
-- Employed a regional hexagonal gridding system to carry out location-based analyses and prevent ambiguity in sales prediction.
+- Solved one of Getir's major problems of predicting store based daily orders using Tensorflow's LSTM implementation, achieving a 2% error rate(weekdays).
+- Employed a regional hexagonal gridding system to carry out location-based analyses and store region management. 
 - Conducted campaign effect and precision clustering, geographic rival and risk factors analyses, and ad-hoc analyses to observe client RFM, campaign success, and store region productivity.
 - Implemented a sentiment analysis model to track public reliability of the company by mining tweets that mention the company using Twitter dev API.
 - **_Technologies used:_** Python 3.x, TensorFlow1.x, AWS, S3 buckets, MongoDB, RedShift, SQL, Jupyter Notebooks, Shapely, Tweepy, Scikit-Learn, Statsmodels.
