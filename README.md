@@ -6,12 +6,12 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 ## Experience 👩🏻‍💻
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
-- Develop and maintain a machine learning model for fast review creation based on user-generated content for a specific product type on Hepsiburada's main product team Hermes. Utilize natural language processing techniques to analyze user comments and generate concise and informative reviews, resulting in a significant increase in review quality and quantity. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
+- Maintaining and developing a rapid review generation pipeline utilizing user comments for Hepsiburada's primary team, Hermes. Utilize natural language processing techniques to analyze user comments and generate concise and informative reviews, resulting in a significant increase in review quality and quantity. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
 <br><br>
 
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
 - Developed a multilingual spelling correction model for the search module of Huawei App Gallery, supporting English, Spanish, Russian, and Arabic languages.
-- Finetuned language models, including BERT, to relate domain and language-specific queries on a search engine system.
+- Domain adaptation of language models for app gallery search system.  
 - Implemented a hybrid keyword extraction pipeline for mapping apps with related queries for AG search.
 - Implemented a parallel corpus filtering pipeline in collaboration with AARC of Huawei, resulting in a published ACL paper and a ranking in the EMNLP contest of WMT20.
 - **_Technologies used:_** Python3.x, TensorFlow, PyTorch, NLTK, SpaCy, Scikit-learn, Pandas, Jupyter.
@@ -44,8 +44,8 @@ Worked as a backend PHP developer, for their school management platform called [
 <br><br>
 
 **Research Assistant** @ [BAU Computer Vision Lab](https://bau.edu.tr/) _(Jul 2015- Sept 2017)_<br>
-I participated in the BAUFera project, a university research initiative funded by TUBITAK. The project's objective was to develop an emotion detection system from faces in surveillance cameras. As a team member,
-- Employed multi-task feature learning techniques for gender classification, facial landmark localization, and eye-glass availability to enhance the accuracy and reliability of the system.
+I participated in the BAUFera project, a university research initiative funded by TUBITAK. The project's objective was to develop an emotion detection system from faces in surveillance cameras. As a team member I,
+- Implemented a  multi-task deep learning architecture for gender classification and facial landmark localization.
 - **_Technologies used:_** TensorFlow, Matlab, Python.
 <br><br>
 
