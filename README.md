@@ -6,50 +6,46 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 ## Experience 👩🏻‍💻
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
-- As a senior data scientist on Hb’s main product team Hermes,my role involves maintaining and implementing AI projects based on user-generated content.
+- Develop and maintain a machine learning model for fast review creation based on user-generated content for a specific product type on Hepsiburada's main product team Hermes. Utilize natural language processing techniques to analyze user comments and generate concise and informative reviews, resulting in a significant increase in review quality and quantity. Collaborate with cross-functional teams to integrate the model into the product workflow and continuously improve its accuracy and efficiency.
 <br><br>
 
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
-- I developed a spelling correction model for the search module of Huawei App Gallery,which supports English, Spanish, Russian, and Arabic languages.
-- Finetuning language models (mainly bert and likes of bert) to help relate domain and language specific queries on a search engine system.
+- Developed a multilingual spelling correction model for the search module of Huawei App Gallery, supporting English, Spanish, Russian, and Arabic languages.
+- Finetuned language models, including BERT, to relate domain and language-specific queries on a search engine system.
 - Implemented a hybrid keyword extraction pipeline for mapping apps with related queries for AG search.
-- Implemented a parallel corpus filtering pipeline in collaboration with AARC of
-Huawei. Developed a proxy task to eliminate hard-case examples in filtering parallel corpus. Published an ACL paper as a result and ranked in the EMNLP contest of WMT20.
+- Implemented a parallel corpus filtering pipeline in collaboration with AARC of Huawei, resulting in a published ACL paper and a ranking in the EMNLP contest of WMT20.
 - **_Technologies used:_** Python3.x, TensorFlow, PyTorch, NLTK, SpaCy, Scikit-learn, Pandas, Jupyter.
 - **_Models used:_** Symspell, DeepPavlov, SimCLR, Moco, Contrastive Learning, Yake, Bert, m-Bart.
 <br><br>
 
 **Data Scientist** @ [Getir](https://getir.com/) _(May 2018- July 2019)_<br>
 **Getir** is an online retails delivery app which promises _less than an hour_ delivery. Their business model is similar to Glovo, only Getir has its own stores in each crucial spots in Istanbul where they keep/manage wide-definite products. The demand prediction and planning, couriers planning & assignments, marketing analysis are all carried by the Data team. 
-- Sales Prediction: As a member of the Data department I was dedicated to solving Getir's biggest problem which is to predict daily orders & item- based sales. An accurate prediction of daily orders would help organization to employ the right amount of man power and help manage them the supply chain. I used Tensorflow's LSTM implementation for sales prediction and performed many feature engineering in that manner. Model achieves nearly 2% error rate.
-- Employed regional hexagonal gridding system: To perform sales prediction I created a hexagonal gridding system which (as later I heard) is very popular among companies that depend on geographic analysis such as Uber. Hexagonal gridding helped the company to carry out location-based analyses such as classifying areas according to basket value, delivery cost, deciding the most efficient polygon borders for a store. Hexagons also create the baseline for sales prediction it prevents the ambiguity of region changes, killed the necessity of downloading and computing x years of data all over again because hexagons hold all the raw data and each hexagon is dynamically assigned to a store. Hexagonal gridding system tailoered by adopting a massive ETL
-pipeline.  
-- Campaign effect and precision clustering.  
-- Geographic rival and risk factors analyses.  
-- Implemented a sentiment analysis model to track public reliability of the company, by mining tweets that mentions the company using Twitter dev API.  
-- Performed ad-hoc analyses to observe client RFM,campaign success and store region productivity.  
+- Solved Getir's biggest problem of predicting daily orders and item-based sales using Tensorflow's LSTM implementation, achieving a 2% error rate.
+- Employed a regional hexagonal gridding system to carry out location-based analyses and prevent ambiguity in sales prediction.
+- Conducted campaign effect and precision clustering, geographic rival and risk factors analyses, and ad-hoc analyses to observe client RFM, campaign success, and store region productivity.
+- Implemented a sentiment analysis model to track public reliability of the company by mining tweets that mention the company using Twitter dev API.
 - **_Technologies used:_** Python 3.x, TensorFlow1.x, AWS, S3 buckets, MongoDB, RedShift, SQL, Jupyter Notebooks, Shapely, Tweepy, Scikit-Learn, Statsmodels.
 - **_Models used:_** Bayes, ARIMA, SARIMA, LSTM, Clustering.
 <br><br>
 
 **AI Research Engineer** @ [Etiya](https://www.etiya.com/tr) _(Dec 2017- May 2018)_<br>
 Explanation
-- Developed a text-CNN model to identify street language and mocking in Turkish, model achieved a 88% percentage accuracy. Used Python and TensorFlow 1.x. 
-- Lots of mining our own task-specific data using Python'a Scrapy and Tweepy.
+- Developed a text-CNN model to identify street language and mocking in Turkish, achieving an 88% accuracy.
+- Mined task-specific data using Python's Scrapy and Tweepy.
 - **_Technologies used:_** NLTK, SpaCy, Python3.x, TensorFlow1.x.
 - **_Models used:_** TextCNN, Word2vec.
 <br><br>
 
 **Junior PHP Developer** @ [Ubit](https://www.ubit.com.tr/) _(Jul 2014- Sept 2015)_<br>
 Worked as a backend PHP developer, for their school management platform called [STOYS](https://stoys.co/)
-- Designed the back-end of the web pages for STOYS.
-- Assisted in re-designing the DB during version upgrade of the STOYS.
+- Designed the back-end of the web pages for STOYS, a school management platform.
+- Contributed to the redesign of database tables and relationships during a version upgrade of the STOYS system, ensuring efficient data management and improved system performance.
 - **_Technologies used:_** PHP, Zend Framework, SQL.
 <br><br>
 
 **Research Assistant** @ [BAU Computer Vision Lab](https://bau.edu.tr/) _(Jul 2015- Sept 2017)_<br>
-BAUFera project was a university research project founded by TUBITAK, aims to detect emotions from faces in the survilance cams.   
-- Employed multi task feature learning for gender classification, facial landmark localization and eye-glass availability.
+I participated in the BAUFera project, a university research initiative funded by TUBITAK. The project's objective was to develop an emotion detection system from faces in surveillance cameras. As a team member,
+- Employed multi-task feature learning techniques for gender classification, facial landmark localization, and eye-glass availability to enhance the accuracy and reliability of the system.
 - **_Technologies used:_** TensorFlow, Matlab, Python.
 <br><br>
 
