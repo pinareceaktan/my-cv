@@ -5,6 +5,11 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 
 ## Experience 👩🏻‍💻
+
+**NLP Team Lead** @ [Anadolu Sigorta](https://www.hepsiburada.com/) _(October 2022- present)_<br>
+- Leading technical branch of an LLM-based chatbot aimed at addressing claims-related inquiries from customers, specifically focusing on their files and claims processes, thereby reducing the need for call center interactions and enhancing customer experience. You can chat with it if you are an anadolu sigorta claimant @ [here](https://m.anadolusigorta.com.tr/home-logout).
+<br><br>
+
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- present)_<br>
 - Contributed developing Hepsiburada’s AI models, enhancing search and findability, focusing on query classification and product ranking. 
 - Developed, and maintained an end-to-end machine learning pipeline that utilizes NLP techniques for keyword based fast review generation. The pipeline includes Airflow for serving and has significantly improved both the quality and quantity of reviews.
