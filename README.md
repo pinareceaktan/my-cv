@@ -33,7 +33,6 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 <br><br>
 
 **AI Research Engineer** @ [Etiya](https://www.etiya.com/tr) _(Dec 2017- May 2018)_<br>
-Explanation
 - Developed a text-CNN model to identify street language and mocking in Turkish, achieving an 88% accuracy.
 - Mined task-specific data using Python's Scrapy and Tweepy.
 - **_Technologies used:_** NLTK, SpaCy, Python3.x, TensorFlow1.x.
