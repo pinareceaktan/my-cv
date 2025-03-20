@@ -6,7 +6,7 @@ _AI Research Engineer, based in Trabzon, Turkey_ <br>
 
 ## Experience 👩🏻‍💻
 
-**AI Team Lead(LLMs)** @ [Anadolu Sigorta](https://www.hepsiburada.com/) _(October 2022- present)_<br>
+**AI Team Lead(LLMs)** @ [Anadolu Sigorta](https://www.hepsiburada.com/) _(March 2024- present)_<br>
 - Led the development of an LLM chatbot for claims-related inquiries, reducing call center interactions and improving customer experience. You can chat with it if you are an anadolu sigorta claimant @ [here](https://m.anadolusigorta.com.tr/home-logout). The project was highly praised by the stakeholders. Currently leading NLP initiatives and managing a team to build an advanced LLM capable of reasoning for insurance and claims processes.
 <br><br>
   
