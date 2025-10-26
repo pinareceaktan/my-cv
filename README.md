@@ -1,7 +1,12 @@
 # Ece Aktan Hatipoglu
-_AI Research Engineer, based in Trabzon, Turkey_ <br>
+_AI Team Lead (LLMs) — Applied Scientist — Retrieval Systems & NLP_ <br>
 
 [Email](mailto:eceaktanhatipoglu@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ecehtp/) / [GitHub](https://github.com/pinareceaktan) / [Medium](https://medium.com/@pinareceaktan) / [LeetCode](https://leetcode.com/eceaktanhatipoglu/)
+
+Applied Scientist and AI Team Lead with 9+ years of experience in deep learning algorithms. Proven track record of
+bridging research and production: led Gartner 2025-award winner LLM chatbot project (CVA), deployed large-scale
+semantic search pipelines (BERT, SBERT, Milvus), and published research at EMNLP (WMT20). Skilled in leading
+cross-functional teams and delivering measurable business impact in e-commerce and insurance domains.
 
 
 ## Experience 👩🏻‍💻
