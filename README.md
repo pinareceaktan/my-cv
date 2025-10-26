@@ -12,12 +12,25 @@ cross-functional teams and delivering measurable business impact in e-commerce a
 ## Experience 👩🏻‍💻
 
 **AI Team Lead(LLMs)** @ [Anadolu Sigorta](https://www.hepsiburada.com/) _(March 2024- present)_<br>
-- Led the development of an LLM chatbot for claims-related inquiries, reducing call center interactions and improving customer experience. You can chat with it if you are an anadolu sigorta claimant @ [here](https://m.anadolusigorta.com.tr/home-logout). The project was highly praised by the stakeholders. Currently leading NLP initiatives and managing a team to build an advanced LLM capable of reasoning for insurance and claims processes.
+- Led the development of CVA (Claims Virtual Assistant) an LLM-powered insurance chatbot shortlisted as a Gartner Eye on Innovation Award winner (EMEA, 2025). The chatbot itself reduced call center workload by %40 and average claims handling time, leading to a %12 increase in customer satisfaction since launch.
+- You can chat with it if you are an anadolu sigorta claimant @ [here](https://m.anadolusigorta.com.tr/home-logout).
+- Designed and deployed retrieval-augmented generation (RAG) pipelines with SBERT and Milvus for insurance-specific question answering, improving answer precision and customer satisfaction.
+- Directed a 7-month LLM fine-tuning and deployment roadmap (LLaMA, Mistral, Gemma) to adapt models for Turkish insurance-specific reasoning and personalization.
+- Deployed the chatbot as a core feature within Sigortam Cepte, the company’s mobile application.
+- Designed an AI-driven monitoring system that tracks hot-topic queries using intent classes and query frequency analysis, funnels user traffic through a dashboard, and helps the development team and stakeholders improve user engagement and content relevance.
+- Supervised a cross-functional team of engineers and data scientists, providing technical guidance on intent recognition, semantic retrieval, and monitoring systems.
+
 <br><br>
   
 **Senior Data Scientist** @ [Hepsiburada](https://www.hepsiburada.com/) _(October 2022- Feb  2024)_<br>
-- Contributed developing Hepsiburada’s AI models, enhancing search and findability, focusing on query classification and product ranking. 
-- Developed, and maintained an end-to-end machine learning pipeline that utilizes NLP techniques for keyword based fast review generation. The pipeline includes Airflow for serving and has significantly improved both the quality and quantity of reviews.
+
+Part of the Search & Findability team, tackling large-scale semantic retrieval and ranking problems to match customer queries with the most relevant products, leveraging BERT and boosting algorithms to enhance search relevance.
+- Designed and deployed a BERT-based retriever pipeline, improving relevance in search and product discovery across millions of queries.
+- Productionized models using Apache Airflow, ensuring scalable and reliable integration with e-commerce infrastructure.
+- Developed a trend-aware ranking model (multi-objective optimization: relevance + popularity), boosting seasonal campaign engagement and conversion.
+- Evaluated model improvements with A/B testing (NDCG, CTR uplift), continuously refining feature engineering and ranking strategies.
+- Collaborated with product managers and engineers to align ML roadmap with customer behavior modeling and business KPIs.
+
 <br><br>
 
 **Reseaerch Engineer** @ [Huawei](https://www.huawei.com/tr/) _(September 2019- October 2022)_<br>
